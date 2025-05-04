@@ -36,6 +36,6 @@ console.log(thingTwo);
 console.log("=======================================================");
 
 let bill = 10.25 + 3.99 + 7.15;
-let tip = 
+let tip = 15%
 console.log(tip);
-// let totalOfcost =
+let totalOfcost = bill + tip
