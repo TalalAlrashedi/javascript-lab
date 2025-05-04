@@ -16,3 +16,26 @@ let fahernhitDegree2 = 70;
 let celCompareToFaheerhint = ((fahernhitDegree2 - 32) * 5) / 9;
 
 console.log(`${fahernhitDegree2}°C is NN°F is ${celDegree}`);
+
+console.log("=======================================================");
+
+let hours = 60;
+
+let seconds = 120;
+
+console.log(`NN ${hours} H = NN ${seconds} S`);
+
+console.log("=======================================================");
+
+let thingOne = "thingOne";
+let thingTwo = "thinTwo";
+
+console.log(thingOne);
+console.log(thingTwo);
+
+console.log("=======================================================");
+
+let bill = 10.25 + 3.99 + 7.15;
+let tip = 
+console.log(tip);
+// let totalOfcost =
